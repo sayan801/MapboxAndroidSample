@@ -134,6 +134,8 @@ public void zoomin(float value)
         return true;
     }
 
+    //checks
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
